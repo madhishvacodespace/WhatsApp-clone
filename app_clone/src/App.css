@@ -1,0 +1,9 @@
+body, html {
+  overflow-x: hidden; 
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.heading{
+  margin-left: 0cm;
+}
